@@ -1,0 +1,4 @@
+#Create a script that removes all letters c and C from input.
+
+#!/bin/bash
+tr -d cC

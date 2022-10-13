@@ -1,0 +1,4 @@
+#Write a script that reverse its input
+
+#!/bin/bash
+rev
